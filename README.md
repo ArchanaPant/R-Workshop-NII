@@ -1,6 +1,10 @@
 # R-Workshop-NII
 
+```{R Basics}
+hello <- function(){
+  print('Hello World')
+}
 
-'''{R Basics}
+# this is a comment
 
-'''
+```
